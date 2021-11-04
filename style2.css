@@ -1,0 +1,40 @@
+body
+{
+	background-color:white;
+	justify-content:center;
+}
+input{
+    justify-content: space-between;
+}
+.tableau{
+    display: flex;
+    margin-top: 15px;
+}
+table 
+{
+	border-collapse: collapse;
+    width: 500px;
+    height: 150px;
+}
+th{
+    text-decoration: underline;
+}
+td
+{
+	border:1px rgb(180, 173, 173) solid;
+	font-size:20px;
+}
+select{
+    justify-content: space-between;
+    width: 130px;
+}
+.lvl{
+    margin-right: 10px;
+}
+.fil{
+    margin-left: 100px;
+    margin-right: 10px;
+}
+button{
+    margin-left: 15px;
+}
